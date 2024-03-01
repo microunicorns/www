@@ -43,3 +43,9 @@ Aktualnie ważną przyczyną porażki w projekcie informatycznym jest nie skutec
 W ramach badań obserwowane są dwa zjawiska wpływające na nie skuteczny transfer wiedzy:➢ Nie racjonalna redukcja kosztów związanych z transferem wiedzy po stronie klienta. W ten sposób może być generowany dług informacyjny, który przejawiał się w nie dostatecznej wiedzy pracowników klienta w wielu obszarach wykorzystania systemu,➢ Nie skutecznie przeprowadzony transfer wiedzy od dostawcy do klienta tj. szkolenia, instrukcje stanowiskowe.
 
 Transformacja cyfrowa spowodowała, iż coraz więcej firm decyduje się na wdrożenie systemu w chmurze producenta lub innego dostawcy. Niestety istnieją wdrożenia w których istnieją duże wolumeny transakcji, duża liczba użytkowników lub inne cechy transakcji, które mogą powodować, że system działa zbyt wolno lub niestabilnie. Należy pamiętać, iż nadal producenci oprogramowania mogą nie mieć doświadczenia z pewnymi typami konfiguracji systemu zainstalowanego w chmurze.
+
+
+---
+
++ [edit](https://github.com/microunicorns/www/edit/main/README.md)
++ [git](https://github.com/microunicorns/)
