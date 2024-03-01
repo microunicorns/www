@@ -1,6 +1,8 @@
-# [micro Unicorns - From Idea to Service](http://www.microunicorns.com)
+# [micro Unicorns - Start-up & Scale up](http://www.microunicorns.com)
 
-![obraz](https://github.com/microunicorns/www/assets/5669657/4b63b54c-d13d-4b5c-ad9c-e365439e473f)
+
+![micro Unicorns - Start-up & Scale up](https://github.com/microunicorns/www/assets/5669657/b12883f5-807f-4e52-bf37-62989df7e324)
+
 
 Informacja o aktualnych projektach, roadmap, informacje marketingowe
 + możliwość zgłoszenia swojego startupu
